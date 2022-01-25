@@ -1,3 +1,3 @@
 # Prolog-Project
-Logic Programming project
+Logic Programming project - 
 Matching Glanian people according to their interests
